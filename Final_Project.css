@@ -1,0 +1,215 @@
+#Introduction{
+text-decoration: underline;
+font-weight: bold;
+font-size: 30px;
+    float: center;
+}
+#body{
+    background-image: url("cool_background.png");
+background-size: cover;
+}
+
+#a{
+box-shadow: 5px 5px 7px black;
+border: 2px solid black;
+color: white;
+font-size: 40px;
+text-decoration: none;
+list-style-type: none;
+margin: 100px;
+padding: 30px;
+text-align: center;
+background-color: purple;
+}
+
+#b{
+box-shadow: 5px 5px 7px black;
+border: 2px solid black;
+color: white;
+font-size: 40px;
+text-decoration: none;
+list-style-type: none;
+margin: 20px;
+padding: 30px;
+text-align: center;
+background-color: blue;
+}
+
+#c{
+box-shadow: 5px 5px 7px black;
+border: 2px solid black;
+color: white;
+font-size: 40px;
+text-decoration: none;
+list-style-type: none;
+margin: 100px;
+padding: 30px;
+text-align: center;
+background-color: green;
+}
+
+#d{
+box-shadow: 5px 5px 7px black;
+border: 2px solid black;
+color: white;
+font-size: 40px;
+text-decoration: none;
+list-style-type: none;
+margin: 50px;
+padding: 30px;
+text-align: center;
+background-color: red;
+}
+
+#a:hover{
+background-color:green;
+}
+
+#b:hover{
+background-color:yellow;
+}
+
+#c:hover{
+background-color:red;
+}
+
+#d:hover{
+background-color:blue;
+}
+
+#ConsoleGames{
+text-decoration: underline;
+font-size: 40px;
+font-family: 'Do Hyeon', sans-serif;
+}
+
+#ConsoleGamesParagraph{
+font-size: 30px;
+font-family: 'Do Hyeon', sans-serif;
+color: white;
+}
+
+#Minecraft{
+width: 225px;
+height: 300px;
+}
+
+#Cuphead{
+width:225px;
+height: 300px;
+}
+
+#ConsoleGamesParagraph2{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#ConsoleGamesParagraph3{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#ConsoleGamesParagraph4{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#MatureGames{
+text-decoration: underline;
+font-size: 40px;
+font-family: 'Do Hyeon', sans-serif;
+}
+
+#MatureGamesParagraph{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#MatureGamesParagraph2{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+#DetroitBecomeHuman{
+width: 250px;
+height: 300px;
+}
+
+#MatureGamesParagraph3{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#WTTG{
+width: 300px;
+height: 300px;
+}
+
+#MatureGamesParagraph4{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#PCGames{
+text-decoration: underline;
+font-size: 40px;
+font-family: 'Do Hyeon', sans-serif;
+}
+
+#PCGamesParagraph1{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#Fnaf{
+width:300px;
+height:200px;
+}
+
+#PCGamesParagraph2{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#PCGamesParagraph3{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#PCGamesParagraph4{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#Recommended{
+text-decoration: underline;
+font-size: 40px;
+font-family: 'Do Hyeon', sans-serif;
+}
+
+#Recommended1{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
+
+#Halo{
+width:400px;
+height:200px;
+}
+
+#Recommended2{
+font-family: 'Do Hyeon', sans-serif;
+font-size: 30px;
+color: white;
+}
